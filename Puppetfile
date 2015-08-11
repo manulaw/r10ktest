@@ -16,5 +16,5 @@ mod "zack/r10k", "3.1.0"
 
 # Modules from Github
 mod 'esb',
-  :git => 'https://github.com/mwaidyanatha/manula-esb.git'
+  :git    => 'https://github.com/mwaidyanatha/manula-esb.git',
   :branch => 'production'
